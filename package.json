@@ -1,0 +1,18 @@
+{
+  "name": "ep_printer",
+  "version": "0.0.1",
+  "description": "Adds a print button to etherpad",
+  "author": {
+    "name": "bee_keeper"
+  },
+  "contributors": [],
+  "dependencies": {},
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "readme": "ep_printer\n=======\n\nAdds a button to Etherpad allowing users to print the contents of a pad\n",
+  "readmeFilename": "README.md",
+  "_id": "ep_printer@0.0.1",
+  "_shasum": "84c27c605034125ff30dbfa20745c3f7658544d3",
+  "_from": "ep_printer"
+}

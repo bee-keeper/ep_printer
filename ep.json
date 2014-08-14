@@ -1,0 +1,12 @@
+{
+  "parts": [
+    {
+      "name": "main",
+      "hooks": {
+        "eejsBlock_styles": "ep_printer/static/js/index.js",
+        "eejsBlock_editbarMenuRight": "ep_printer/static/js/index.js",
+      }
+    }
+  ]
+}
+
