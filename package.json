@@ -10,6 +10,10 @@
   "engines": {
     "node": ">= 0.6.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bee-keeper/ep_printer.git"
+  },
   "readme": "ep_printer\n=======\n\nAdds a button to Etherpad allowing users to print the contents of a pad\n",
   "readmeFilename": "README.md",
   "_id": "ep_printer@0.0.1",
